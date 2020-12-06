@@ -1,3 +1,3 @@
 # basics-01-starting-project
-This project is commited every day for learning reasons.
-Basic JavaScript codes in use
+
+I develop this project to study, learn and repeat my knowledge of JavaScript, HTML and CSS.
