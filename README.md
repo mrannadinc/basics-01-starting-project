@@ -5,3 +5,4 @@ I develop this project to study, learn and repeat my knowledge of JavaScript, HT
 I used vscode for the development environment.
 
 
+https://github.com/mrannadinc/basics-01-starting-project/blob/master/calculator.png?raw=true
