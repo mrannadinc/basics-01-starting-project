@@ -1,4 +1,4 @@
-# basics-01-starting-project
+# Basic Calculator Project
 
 I develop this project to study, learn and repeat my knowledge of JavaScript, HTML and CSS.
 
